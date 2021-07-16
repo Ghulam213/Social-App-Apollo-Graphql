@@ -19,7 +19,6 @@ module.exports = {
 After that run following commands
 
 ```bash
-cd server
 npm i
 npm serve
 ```
