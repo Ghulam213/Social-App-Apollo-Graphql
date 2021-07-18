@@ -7,7 +7,7 @@ This repo contains the full MERN-Graphql App made using Apollo server on backend
 Clone the repo and then install dependencies for both the client and server. For this make sure you have Node.js installed.
 
 For Server:  
-Make a config.js file and add following:
+Make a config.js file in server/src folder and add following:
 
 ```js
 module.exports = {
@@ -19,6 +19,7 @@ module.exports = {
 After that run following commands
 
 ```bash
+cd server
 npm i
 npm serve
 ```
